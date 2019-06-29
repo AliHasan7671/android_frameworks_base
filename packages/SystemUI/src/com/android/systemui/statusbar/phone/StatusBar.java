@@ -413,7 +413,7 @@ public class StatusBar extends SystemUI implements DemoMode, TunerService.Tunabl
         "com.android.systemui.qstile.badgetwo", // 10
         "com.android.systemui.qstile.circletrim", // 11
         "com.android.systemui.qstile.dualtonecircletrim", // 12
-
+	"com.bootleggers.qstile.oos", //13
 
     };
 
